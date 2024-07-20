@@ -1,7 +1,8 @@
 ## Portfolio
 #### Technical skills: Python, numpy, Pytorch, Tensorflow, Matplotlib, Tableau
 ### Education
-- MSc, Data Science | University of Bristol, United Kingdom
+
+MSc, Data Science | University of Bristol, United Kingdom
 
 ### University projects
 All available here: 
@@ -16,6 +17,7 @@ All available here:
 ---
 
 ### Spare time projects
+All available here: 
 
 ![Spare time projects](https://img.shields.io/badge/GitHub-View_in_GitHub-blue?logo=GitHub&color=red)
 
