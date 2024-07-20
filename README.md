@@ -1,5 +1,5 @@
 # Data Scientist/Technical content writer
-### Technical skills: Python, numpy, Pytorch, Tensorflow, Matplotlib, Tableau
+#### Technical skills: Python, numpy, Pytorch, Tensorflow, Matplotlib, Tableau
 ### Education
 - MSc, Data Science | University of Bristol, United Kingdom
 
