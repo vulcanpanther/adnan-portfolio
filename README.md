@@ -1,17 +1,25 @@
-# Data Scientist/Technical content writer
+## Portfolio
 #### Technical skills: Python, numpy, Pytorch, Tensorflow, Matplotlib, Tableau
 ### Education
 - MSc, Data Science | University of Bristol, United Kingdom
 
-### Projects
-- Classifying brain tumors using MRI scans
-- Detecting oil tanks from satellite imagery
-- Team project to predict T-Cell receptor specificity from TCR chains
+### University projects
+
+- Latest: Industry project to predict T-Cell receptor specificity from TCR chains (not yet public but can show privately)
+- Sentiment Analysis on news and social media data (Maia et al., 2018) using Bayesian network (Latent Dirichlet allocation).
+- Using Conditional Random Field (CRF) for named entity recognition on MEDLINE data (collier et al., 2005)
+
+    Sentiment Analysis | Named Entity Recognition | Full Report |
+
+
+
+- #### Spare time projects
+    - Classifying brain tumors using MRI scans
+    - Detecting oil tanks from satellite imagery
 
 ### Work experience
 
-**Principal Technologist (Content Author) at Civica  - Microsoft 
-supplier** *(June 2019 — May 2024)*
+**Principal Technologist (Content Author) at Civica  - Microsoft supplier** *(June 2019 — May 2024)*
 - Create learning content for Microsoft Learn
 certifications, and courses. I cover all Microsoft technologies but 
 primarily focus on Azure solutions, such as Azure Machine Learning/AI services, and much more.
